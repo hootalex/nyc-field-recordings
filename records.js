@@ -38,7 +38,7 @@ const records =  [
  "name": "Ice Cream Truck on Madison",
  "desc": "On a hot summer night. The tune was a bit distorted.",
  "geohash" : "dr5rmz50qync",
- "time": "2019.00.00",
- "url" : "2019.00.00%20-%20Ice%20Cream%20Truck%20on%20Madison%20-%20dr5rmz50qync.m4a"
+ "time": "2019",
+ "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2019.00.00%20-%20Ice%20Cream%20Truck%20on%20Madison%20-%20dr5rmz50qync.m4a"
 }
 ]
