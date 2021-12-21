@@ -26,5 +26,12 @@ const records =  [
  "geohash" : "dr5rsq7sqjtp",
  "time": "2018.03.28",
  "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2018.03.28%20-%20Paul's%20Burgers%20-%20dr5rsq7sqjtp.m4a"
+},
+{
+ "name": "Outside Hong Kong Supermarket",
+ "desc": "It was lightly drizzling. The chime sound effect was from a digital display in the store window.",
+ "geohash" : "dr5rshmtp2nd",
+ "time": "2019.02.16",
+ "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2019.02.16%20-%20Outside%20Hong%20Kong%20Supermarket%20-%20dr5rshmtp2nd.m4a"
 }
 ]
