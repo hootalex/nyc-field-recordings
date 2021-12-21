@@ -19,5 +19,19 @@ const records =  [
   "geohash" : "dr5rudg4xj9d",
   "time": "2018.04.02",
   "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2018.04.02%20-%20Grand%20Central%20on%20a%20Busy%20Afternoon%20-%20dr5rudg4xj9d.m4a"
+},
+{
+ "name": "Paul’s Da Burger Joint",
+ "desc": "Waiting for my burger an interesting conversation about technology carries on in the background between a server and a customer.",
+ "geohash" : "dr5rsq7sqjtp",
+ "time": "2018.03.28",
+ "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2018.03.28%20-%20Paul's%20Burgers%20-%20dr5rsq7sqjtp.m4a"
+},
+{
+ "name": "Outside Hong Kong Supermarket",
+ "desc": "It was lightly drizzling. The chime sound effect was from a digital display in the store window.",
+ "geohash" : "dr5rshmtp2nd",
+ "time": "2019.02.16",
+ "url" : "https://hootalex.github.io/nyc-field-recordings/recordings/2019.02.16%20-%20Outside%20Hong%20Kong%20Supermarket%20-%20dr5rshmtp2nd.m4a"
 }
 ]
